@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Yalinlee's Blog
-tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
