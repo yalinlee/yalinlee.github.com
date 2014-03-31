@@ -53,12 +53,13 @@ pthread overview
    - all threads have access to the same global, shared memory
    - threads also have their own private data
    - programmers are responsible for synchronizing access globally shared data.
-<center>
+   <center>
 <a href="http://s1370.photobucket.com/user/yalinlee/media/SHAREDMEMORYMODEL_zpsf6a795a5.gif.html" target="_blank"><img src="http://i1370.photobucket.com/albums/ag249/yalinlee/SHAREDMEMORYMODEL_zpsf6a795a5.gif" border="0" alt=" photo SHAREDMEMORYMODEL_zpsf6a795a5.gif"/></a>
 </center>
-
 
 5. thread safeness
    - In a nutshell, refers an application's abilit to execute multiple threads simultaneously without "clobbering" shared data or creating "race" conditions.
    - The implication to users of external library routines is that if you aren't 100% certain the routine is thread-safe, then you take your chances with problems that could arise
-   
+
+
+
