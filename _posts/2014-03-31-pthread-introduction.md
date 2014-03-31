@@ -19,11 +19,11 @@ what is a thread
 2. 同一进程中的多条线程将共享该进程中的全部系统资源，如虚拟地址空间、文件描述符和signal action等。但同一进程的多个线程各有各的调用栈（call stack）、自己的寄存器环境（register context）和自己的本地存储
 
 <div style="max-width:700px;">
-	<img src="http://i1370.photobucket.com/albums/ag249/yalinlee/UNIXPROCESS_zps74e6faa3.gif" title="UNIXPROCESS" width="640"/>
+	<img src="http://i1370.photobucket.com/albums/ag249/yalinlee/UNIXPROCESS_zps74e6faa3.gif" title="UNIXPROCESS" width="320"/>
 </div>
 
 <div style="max-width:700px;">
-	<img src="http://i1370.photobucket.com/albums/ag249/yalinlee/THREADWITHINUNIXPROCESS_zps534c21b8.gif" title="THREADWITHINUNIXPROCESS" width="640"/>
+	<img src="http://i1370.photobucket.com/albums/ag249/yalinlee/THREADWITHINUNIXPROCESS_zps534c21b8.gif" title="THREADWITHINUNIXPROCESS" width="320"/>
 </div>
 
 
@@ -55,7 +55,7 @@ pthread overview
    - threads also have their own private data
    - programmers are responsible for synchronizing access globally shared data.
 <div style="max-width:700px;">
-	<img src="http://i1370.photobucket.com/albums/ag249/yalinlee/SHAREDMEMORYMODEL_zpsf6a795a5.gif" title="SHAREDMEMORYMODEL" width="640"/>
+	<img src="http://i1370.photobucket.com/albums/ag249/yalinlee/SHAREDMEMORYMODEL_zpsf6a795a5.gif" title="SHAREDMEMORYMODEL" width="320"/>
 </div>
 
 5. thread safeness
