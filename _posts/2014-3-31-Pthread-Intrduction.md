@@ -2,7 +2,7 @@
 layout: post
 title: "Pthread Intrduction"
 description: "Introduction about pthread"
-category:multithread
+category: multithread
 tags: [multithread]
 ---
 {% include JB/setup %}

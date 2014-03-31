@@ -11,15 +11,3 @@ title: Yalinlee's Blog
 </ul>
 
 
-<section>
-<h4>About me</h4>
-<div>
-Enjoy technology with you。<a href="/about.html">更多信息</a> 
-<br/>
-<br/>
-<strong><font color="red"><a href="/atom.xml" target="_blank">订阅本站</a></font></strong>
-<br/><br/>
-联系博主：yalinlee[a]126.com
-</div>
-</section>
-

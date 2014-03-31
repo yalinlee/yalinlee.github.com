@@ -91,9 +91,6 @@ JB :
       num_posts: 5
       width: 580
       colorscheme: light
-	  
-	
-   
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
@@ -129,4 +126,3 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
-  markdown: redcarpet
