@@ -12,3 +12,5 @@ title: Yalinlee's Blog
 </ul>
 
 
+
+[更多文章](categories.html)
