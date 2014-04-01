@@ -228,6 +228,14 @@ pre {
 }
 /* MAIN
 --------------------------------------------------------------------------------- */
+.copyright {
+margin: 10px 0;
+padding: 10px 20px;
+line-height: 1;
+border-radius: 5px;
+background: #f5f5f5;
+}
+
 .unit-article header {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
